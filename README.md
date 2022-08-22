@@ -1,1 +1,2 @@
-# RenatoConsoleUI
+# RenatoGE
+A learning tool written by me, Kevin Renato, to learn more about building game engines from scratch. It is designed to be cross platform and the UI currently takes advantage of virtual terminal sequences to achieve this.
