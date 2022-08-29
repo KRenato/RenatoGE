@@ -1,6 +1,4 @@
-﻿using Core.Interfaces;
-
-namespace Core
+﻿namespace Core.Interfaces
 {
     public interface IRenderArea
     {
